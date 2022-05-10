@@ -27,7 +27,9 @@ This project sets out to determine which factors influence the effectiveness of 
 
 ## Acknowledgements
 Starbucks for the use of their data and support of the nanodegree programme
+
 Stackoverflow for the wealth of knowledge and advice contained on their site
+
 Udacity: This work is part of the data scientist nanodegree capstone project
 
 
