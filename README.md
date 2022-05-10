@@ -17,13 +17,29 @@ There are many challenges inherent in the data, for example:
 Throughout the project a number of steps have been added to address these issues.
 
 ## Problem Statement :
-This project sets out to determine which factors influence the effectiveness of the Starbucks offers. It also aims to build a model to look at whether a particular new customer will respond to an offer or not so that future marketing may be better targetted. It also seeks to identify any other enhancements or observations in customer behaviour that will improve the success rate of marketing offers.
+This project sets out to determine which factors influence the effectiveness of the Starbucks offers. It seeks to identify any other enhancements or observations in customer behaviour that will improve the success rate of marketing offers. It also aims to build a model to look at whether a particular new customer will respond to an offer or not so that future marketing may be better targetted. 
 
 ## Packages Used
+In order to run the project notebook python 3 needs to be installed and the following packages:
 
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sklearn
 
 ## File Structure
 
+
+This github repo contains
+- Starbucks_Capstone_notebook.ipynb: Jupyter notebook for the project.
+- Starbucks_Capstone_notebook.html: html version of the Jupyter notebook
+- README.md : overview of the project
+- License.md : standard MIT license
+- \data: folder containing the three Starbucks data files
+  - portfolio.json
+  - profile.json
+  - transcript.json
 
 ## Acknowledgements
 Starbucks for the use of their data and support of the nanodegree programme
