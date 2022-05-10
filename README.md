@@ -24,6 +24,8 @@ In order to run the project notebook python 3 needs to be installed and the foll
 
 - pandas
 - numpy
+- math
+- json
 - matplotlib
 - seaborn
 - sklearn
