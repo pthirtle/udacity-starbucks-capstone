@@ -35,7 +35,7 @@ This github repo contains
 - Starbucks_Capstone_notebook.ipynb: Jupyter notebook for the project.
 - Starbucks_Capstone_notebook.html: html version of the Jupyter notebook
 - README.md : overview of the project
-- License.md : standard MIT license
+- License.md : standard license
 - \data: folder containing the three Starbucks data files
   - portfolio.json
   - profile.json
