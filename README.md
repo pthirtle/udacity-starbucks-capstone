@@ -48,6 +48,8 @@ This github repo contains
 - The best offer in terms of increased spend was also found to be the worst in terms of visibility to customers, and represents a missed opportunity. The analysis identified that the lack of social media distribution for this offer was the likely cause.
 - The Random Forest model that was developed gives a 70% accuracy on predicting whether an offer will be successful. The 3 most important features in that model were membership length, income and age
 
+The blog post can be found here: https://medium.com/@paul.thirtle/starbucks-udacity-capstone-project-717e9d78618f
+
 
 
 ## Acknowledgements
