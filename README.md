@@ -46,7 +46,7 @@ This github repo contains
 ## Key Findings
 - Average spend is highest with females and lowest where we have an unknown classification. When an offer is successful the average spend increases significantly. Interestingly the % increase in spend is largest in the unknown population with a 4-fold increase seen.
 - The best offer in terms of increased spend was also found to be the worst in terms of visibility to customers, and represents a missed opportunity. The analysis identified that the lack of social media distribution for this offer was the likely cause.
-- The Random Forest model that was developed gives a 70% accuracy on predicting whether an offer will be successful. The 3 most important features in that model were membership length, income and age
+- The AdaBoost model that was developed gives a 71% accuracy on predicting whether an offer will be successful. The 3 most important features in that model were membership length, income and age
 
 The blog post can be found here: https://medium.com/@paul.thirtle/starbucks-udacity-capstone-project-717e9d78618f
 
